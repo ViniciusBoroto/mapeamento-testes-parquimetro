@@ -1,5 +1,5 @@
 Background: 
-     Given qualquer cidade selecionada
+     Given cidade "londrina-pr"
 
 Feature: Primeira etapa de ativacao do ticket
 
